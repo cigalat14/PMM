@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HolaMundo2</string>
+    <string name="app_name2">Pantalla2 de HolaMundo2</string>
+    <string name="pulsar">Haz Click</string>
+    <string name="primerSaludo">Hola</string>
+    <string name="escribe">Escribe tu nombre"</string>
+    <string name="pulsarvolver">CLICK para VOLVER</string>
+</resources>
